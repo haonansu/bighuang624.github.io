@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siteng Huang"
+  name             : "Haonan Su"
   avatar           : "profile.png"
-  bio              : "Joint Ph.D. Student @ Westlake University & Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Lecture, Dept. of Computer Science and Engineering, Xi’an University of Technology"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
-  email            : "huangsiteng@westlake.edu.cn"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=ZWW0D8QAAAAJ&hl=zh-CN"
+  email            : "suhaonan@xaut.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Haonan-Su"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9735-1186"
+  orcid            : "https://orcid.org/0000-0002-5481-1082"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KyonHuang"
+  twitter          : # "KyonHuang"
   vine             :
   weibo            :
   xing             :
