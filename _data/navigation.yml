@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
   # - title: "News"
   #   url: /news/  
@@ -15,6 +15,6 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
     
-  - title: "CV"
-    url: /files/SitengHuang-CV.pdf
+  #- title: "CV"
+  #  url: /files/SitengHuang-CV.pdf
     
