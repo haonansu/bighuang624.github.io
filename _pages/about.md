@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Haonan Su (苏浩楠).I am an Lecturer at Dept. of Computer Science and Engineering, Xi’an University of Technology, China. I received B.S. and Ph.D. degrees from the School of Electronic Engineering, Xidian University, in 2013 and 2018. From Jan. 2019 to July 2021, I worked as a postdoctoral researcher in Xidian University. My research interests include few shot learning for sensor fusion and image processing.
+My name is Haonan Su (苏浩楠).I am an Lecturer at Dept. of Computer Science and Engineering, Xi’an University of Technology, China. I received B.S. and Ph.D. degrees from the School of Electronic Engineering, Xidian University, in 2013 and 2018. From Jan. 2019 to July 2021, I worked as a postdoctoral researcher in Xidian University. My research interests include perceptual image processing, deep learning for sensor fusion and image processing.
 
 Email: suhaonan@xaut.edu.cn
 
