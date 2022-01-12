@@ -14,7 +14,7 @@ Email: suhaonan@xaut.edu.cn
 
 ## Publications
 
-# Journal
+### Journal
 * **Haonan Su**, Cheolkon Jung, Shuyao Wang, and Yuanjia Du “Readability Enhancement of Displayed Images Under Ambient Light,” IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), vol. 28, no. 7, pp. 1481-1496, July 2018.
 
 * **Haonan Su**, Long Yu and Cheolkon Jung, “Joint Contrast Enhancement and Noise Reduction of Low Light Images Via JND Transform”, IEEE Transactions on Multimedia, 2020 (Accepted).
@@ -27,7 +27,7 @@ Email: suhaonan@xaut.edu.cn
 
 * Cheolkon Jung, **Haonan Su**, Lu Wang, Peng Ke, “Power Constrained Contrast Enhancement Based on Brightness Compensated Contrast-Tone Mapping Operation,” Journal of Electronic Imaging, vol. 25, No. 5, 053027, 2016.
 
-# Conference
+### Conference
 *  Long Yu, **Haonan Su**, Cheolkon Jung, "Joint Enhancement and Denoising of Low Light Images Via JND Transform," IEEE International Conference on Acoustics, Speech and Signal Processing. 2020，pp.2658-2662. 
 
 * **Haonan Su**, Cheolkon Jung, "Multi-Spectral Fusion and Denoising of RGB and NIR Images Using Multi-Scale Wavelet Analysis," International Conference on Pattern Recognition (ICPR), 2018, pp. 1779-1784
